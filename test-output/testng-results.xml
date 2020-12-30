@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3157" started-at="2020-12-30T18:34:07Z" finished-at="2020-12-30T18:34:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3157" started-at="2020-12-30T18:34:07Z" finished-at="2020-12-30T18:34:10Z">
+      <class name="APITest.API.testAPITask">
+        <test-method status="PASS" signature="getMethod()[pri:0, instance:APITest.API.testAPITask@25bbe1b6]" name="getMethod" duration-ms="2371" started-at="2020-12-30T20:34:07Z" finished-at="2020-12-30T20:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+        <test-method status="PASS" signature="postMethod()[pri:0, instance:APITest.API.testAPITask@25bbe1b6]" name="postMethod" duration-ms="768" started-at="2020-12-30T20:34:09Z" finished-at="2020-12-30T20:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+      </class> <!-- APITest.API.testAPITask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
